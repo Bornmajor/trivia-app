@@ -24,18 +24,22 @@ Trivia  quiz game mobile application
 ### Settings screen
 <img src="https://github.com/Bornmajor/trivia-app/assets/98744068/f5e2b76a-e9bd-4447-967f-0d18f690e934"  width="200" >
 
+
 ### Quiz screen
-
-
-
 <img src="https://github.com/Bornmajor/trivia-app/assets/98744068/7b965364-d716-4916-8863-f07c36bdb229"  width="200" >
 
 <img src="https://github.com/Bornmajor/trivia-app/assets/98744068/de393c18-689b-40fe-b270-34c2148050fb"  width="200" >
 <img src="https://github.com/Bornmajor/trivia-app/assets/98744068/98744068/b2fde266-75b3-42a4-b0da-1c5d4e649c71"  width="200" >
-<img src="https://github.com/Bornmajor/trivia-app/assets/98744068/1967627d-8290-4de9-a951-8c616d30a0c8"  width="200" >
 
+
+
+### Category screen
+<img src="https://github.com/Bornmajor/trivia-app/assets/98744068/1967627d-8290-4de9-a951-8c616d30a0c8"  width="200" >
 <img src="https://github.com/Bornmajor/trivia-app/assets/98744068/72aca774-8556-4d20-a289-559de60fb263"  width="200" >
-<img src="https://github.com/Bornmajor/trivia-app/assets/98744068/f5e2b76a-e9bd-4447-967f-0d18f690e934"  width="200" >
+
+
+
+
 
 
 
