@@ -1,5 +1,5 @@
 # trivia-app
-Trivia  quiz game mobile application
+The Trivia Quiz Game mobile app is an engaging and educational platform that allows users to test their knowledge across a wide range of topics. Whether you're a science buff, a tech enthusiast, or interested in other major subjects, this app has something for everyone.
 
 # Features
 1. Has over 4000 questions in different categories uses Open Triva Db url -> https://opentdb.com/
